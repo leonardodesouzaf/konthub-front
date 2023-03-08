@@ -39,7 +39,7 @@ Clone o projeto
 Acesse o diretório
 
 ```bash
-  cd brasilidades
+  cd konthub-front
 ```
 
 Inicie a aplicação através do comando
