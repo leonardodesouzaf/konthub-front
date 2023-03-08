@@ -25,7 +25,7 @@ A pasta "public" contém o HTML base da aplicação e um Reset CSS, já a pasta 
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/leonardodesouzaf/konthub-front/blob/main/src/assets/screenshot.png?raw=true)
 
 
 ## Rodar localmente
